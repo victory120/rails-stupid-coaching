@@ -13,3 +13,37 @@
  *= require_tree .
  *= require_self
  */
+.form {
+  flex: display;
+  flex-flow: wrap;
+  -ms-flex-align: center;
+}
+
+
+
+ .containter1 {
+  color: rgb(57, 57, 182);
+ }
+
+ .coach {
+  text-decoration: solid;
+  color: rgb(15, 15, 14);
+  margin: 10px 205px;
+ }
+
+.button {
+  background-color: blue;
+  border-radius: 7px;
+  border: 1px;
+  color: white;
+  text-decoration: solid;
+}
+
+.add {
+  border: 2px solid rgb(219, 205, 205);
+  border-radius: 10px;
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 15px;
+  box-sizing: border-box;
+}
